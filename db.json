@@ -16,26 +16,6 @@
                         "note": "bankCommission and billerCashback in percentage"
                     },
                     {
-                        "productId": 462,
-                        "productName": "Globe 141",
-                        "description": "Globe 141",
-                        "serviceFee": 0,
-                        "bankCommission": 70,
-                        "billerCost": 0,
-                        "billerCashback": 30,
-                        "note": "bankCommission and billerCashback in percentage"
-                    },
-                    {
-                        "productId": 387,
-                        "productName": "Globe 66",
-                        "description": "Globe 66",
-                        "serviceFee": 0,
-                        "bankCommission": 70,
-                        "billerCost": 0,
-                        "billerCashback": 30,
-                        "note": "bankCommission and billerCashback in percentage"
-                    },
-                    {
                         "productId": 724,
                         "productName": "Globe GO Surf 15",
                         "description": "20MB + 300MB SPOTIFY Basic + 1 NBA50 (1 PIN) per Mobtel per day.\r\nOne time pull only for entire promo duration + 50MB Wattpad, NBA & Piso Mall",
@@ -65,88 +45,6 @@
                         "productId": 1776,
                         "productName": "Giga Surf 299",
                         "description": "4GB Data , 1GB/day data for YouTube, iFlix, NBA, Cignal ans iWant TV valid for 30 days",
-                        "serviceFee": 0,
-                        "bankCommission": 70,
-                        "billerCost": 0,
-                        "billerCashback": 30,
-                        "note": "bankCommission and billerCashback in percentage"
-                    },
-                    {
-                        "productId": 2073,
-                        "productName": "GIGA VIDEO+ ALLNET 199",
-                        "description": "7 days,  2GB Open Access Data, Unlimited Allnet calls,Unlimited Text to All Networks, 1 GB/day for Youtube, iflix, NBA, Cignal, iWant",
-                        "serviceFee": 0,
-                        "bankCommission": 70,
-                        "billerCost": 0,
-                        "billerCashback": 30,
-                        "note": "bankCommission and billerCashback in percentage"
-                    }
-                ]
-            },
-            {
-                "categoryId": 4,
-                "categoryName": "Sun",
-                "products": [
-                    {
-                        "productId": 1241,
-                        "productName": "BGT5",
-                        "description": "10 texts to other local networks ",
-                        "serviceFee": 0,
-                        "bankCommission": 70,
-                        "billerCost": 0,
-                        "billerCashback": 30,
-                        "note": "bankCommission and billerCashback in percentage"
-                    },
-                    {
-                        "productId": 5,
-                        "productName": "Sun 500",
-                        "description": "Regular Load + 83 all-net SMS, valid for 120 days.",
-                        "serviceFee": 0,
-                        "bankCommission": 70,
-                        "billerCost": 0,
-                        "billerCashback": 30,
-                        "note": "bankCommission and billerCashback in percentage"
-                    },
-                    {
-                        "productId": 44,
-                        "productName": "Sun Broadband Wireless 250",
-                        "description": "Unlimited surfing for 7 days.",
-                        "serviceFee": 0,
-                        "bankCommission": 70,
-                        "billerCost": 0,
-                        "billerCashback": 30,
-                        "note": "bankCommission and billerCashback in percentage"
-                    }
-                ]
-            },
-            {
-                "categoryId": 42,
-                "categoryName": "ABSCBN",
-                "products": [
-                    {
-                        "productId": 929,
-                        "productName": "ABS-CBN Mobile 10",
-                        "description": "Valid for 3 days",
-                        "serviceFee": 0,
-                        "bankCommission": 70,
-                        "billerCost": 0,
-                        "billerCashback": 30,
-                        "note": "bankCommission and billerCashback in percentage"
-                    },
-                    {
-                        "productId": 935,
-                        "productName": "ABS-CBN Mobile 100",
-                        "description": "Valid for 30 days",
-                        "serviceFee": 0,
-                        "bankCommission": 70,
-                        "billerCost": 0,
-                        "billerCashback": 30,
-                        "note": "bankCommission and billerCashback in percentage"
-                    },
-                    {
-                        "productId": 930,
-                        "productName": "ABS-CBN Mobile 15",
-                        "description": "Valid for 15 days",
                         "serviceFee": 0,
                         "bankCommission": 70,
                         "billerCost": 0,

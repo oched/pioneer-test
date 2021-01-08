@@ -1,0 +1,44 @@
+{
+    "data": {
+        "result": {
+            "status_dokumen": "Approved",
+            "jenis_bayar": "Savings",
+            "requestid": "BILPAY-ce6e866e-8e4c-421d-bb39-de94643771e8",
+            "categoryid": "16",
+            "productid": "1572",
+            "productname": "BP Waterworks Inc.",
+            "sku": "229",
+            "enabled": "true",
+            "description": "BP WATERWORKS INC.",
+            "transactionamount": 1000.25,
+            "adminfee": 0,
+            "norekening": "9900102000002",
+            "payload": "{\n    \"first_name\": \"Allyza\",\n    \"last_name\": \"Dizon\",\n    \"account_number\": \"2233556644\",\n    \"type\": \"WB\",\n    \"due_date\": \"01/30/2021\",\n    \"disconnection_date\": \"01/31/2021\",\n    \"mobile_number\": \"09261166295\",\n    \"remarks\": \"\"\n}",
+            "id": "BPay-2101000001",
+            "tgltransaksi": {
+                "date": "2020-06-09 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Asia/Makassar"
+            },
+            "jenistransaksi": "Payment",
+            "sourceaccountnumber": "1010000078426769",
+            "bankfee": 10,
+            "totalfee": 10,
+            "teller": null,
+            "status_transaksi": "Pending",
+            "status_rekon": null,
+            "rec_otorisasi_oleh": null,
+            "rec_otorisasi_tgljam": null,
+            "rec_otorisasi_lokasi": null,
+            "rec_dibuat_oleh": "Gate User",
+            "rec_dibuat_tgljam": null,
+            "rec_dibuat_lokasi": "02",
+            "rec_diupdate_oleh": "Gate User",
+            "rec_diupdate_tgljam": null,
+            "rec_diupdate_lokasi": "02",
+            "rec_timestamp": null,
+            "sukses": 1
+        }
+    },
+    "status": "ok"
+}
